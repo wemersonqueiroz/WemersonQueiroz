@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wemersonqueiroz
 - 👀 I’m interested in Software and Blockchain Development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me TG : @wemersonqueiroz Email : wemersonqueiroz@yahoo.com
 
 <!---
