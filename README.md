@@ -1,21 +1,15 @@
-- 👋 Hi, I’m @wemersonqueiroz
+# Hi there, I'm Wemerson Queiroz 👋 
+
+[![Website](https://img.shields.io/website?label=wemerson.dev&style=for-the-badge&url=https%3A%2F%2Fwemerson.dev)](https://wemerson.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wemersonqueiroz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwemersonqueiroz&screen_name=wemersonqueiroz)
+
+## I'm a Husband, StarWars and Marvel Fan, Coffee Addicted and Frontend Developer!
+
 - 👀 I’m interested in Software and Blockchain Development.
 - 📚 Currently learning ReactJS
 - 🥅 2022 Goals: Land my first frontend job
 - 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me TG : @wemersonqueiroz Email : wemersonqueiroz@yahoo.com
-
-### Connect with me:
-
-
-[(https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-uniconsDownload?background=ffffff&file=globe.svg&foreground=6563ff&style=line)](https://wemerson.dev)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/wemersonqueiroz)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/wemersonqueiroz)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/wemersonqueiroz)
-
 
 ### Languages and Tools:
 
