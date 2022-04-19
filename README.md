@@ -7,17 +7,14 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/office/344/globe.png)](https://wemerson.dev#gh-light-mode-only)
-[![website](https://img.icons8.com/office/344/globe.png)](https://wemerson.dev#gh-dark-mode-only)
+
+[![website](https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-uniconsDownload?background=ffffff&file=globe.svg&foreground=6563ff&style=line)](https://wemerson.dev)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/wemersonqueiroz#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/wemersonqueiroz#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/wemersonqueiroz)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/wemersonqueiroz#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/wemersonqueiroz#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/wemersonqueiroz)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/wemersonqueiroz#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/wemersonqueiroz#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/wemersonqueiroz)
 
 
 ### Languages and Tools:
