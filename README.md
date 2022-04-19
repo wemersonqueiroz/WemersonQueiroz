@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://wemerson.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://wemerson.dev#gh-dark-mode-only)
+[![website](https://img.icons8.com/office/344/globe.png)](https://wemerson.dev#gh-light-mode-only)
+[![website](https://img.icons8.com/office/344/globe.png)](https://wemerson.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/wemersonqueiroz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/wemersonqueiroz#gh-dark-mode-only)
