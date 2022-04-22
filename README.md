@@ -6,8 +6,8 @@
 
 ## I'm a Husband, StarWars and Marvel Fan, Coffee Addicted and Frontend Developer!
 
-- 👀 I’m interested in Software and Blockchain Development.
-- 📚 Currently learning ReactJS
+- 👀 I’m interested in Web Development.
+- 📚 Currently learning ReactJS and NodeJs
 - 🥅 2022 Goals: Land my first job as Frontend Developer
 - 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me TG : @wemersonqueiroz Email : hello@wemerson.dev
