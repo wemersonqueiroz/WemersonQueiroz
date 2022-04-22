@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Software and Blockchain Development.
 - 📚 Currently learning ReactJS
-- 🥅 2022 Goals: Land my first frontend job
+- 🥅 2022 Goals: Land my first job as Frontend Developer
 - 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me TG : @wemersonqueiroz Email : wemersonqueiroz@yahoo.com
 
