@@ -8,11 +8,11 @@
 
 - 👀 I’m interested in Web Development.
 - 📚 Currently learning ReactJS and NodeJs
-- 🥅 2022 Goals: 
-- > Land my first job as Frontend Developer - ✅ 01/05/22
-- > Create/contribute to a project that solve a real problem - ⏳
-- > Code enough and eficiently to have 2000 Commits & 200PR by 31/12/22 - ⏳
-- > Create a usefull tool and get my first ⭐️ on it's repository - ⏳
+- 🥅 2022 Goals: <br/>
+> - Land my first job as Frontend Developer - ✅ 01/05/22<br/>
+> - Create/contribute to a project that solve a real problem - ⏳<br/>
+> - Code enough and eficiently to have 2000 Commits & 200PR by 31/12/22 - ⏳<br/>
+> - Create a usefull tool and get my first ⭐️ on it's repository - ⏳<br/>
 
 - 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me TG : @wemersonqueiroz Email : hello@wemerson.dev
