@@ -15,7 +15,7 @@
 > - Create a usefull tool and get my first ⭐️ on it's repository - ⏳<br/>
 
 - 💞️ I’m looking to collaborate on any entry level projects.
-- 📫 How to reach me TG : @wemersonqueiroz Email : hello@wemerson.dev
+- 📫 How to reach me TG : @wemersonqueiroz Email : hi@wemerson.dev
 
 ### Languages and Tools:
 
