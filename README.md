@@ -7,7 +7,7 @@
 ## I'm a Husband, StarWars and Marvel Fan, Coffee Addicted and Frontend Developer!
 
 - 👀 I’m interested in Web Development.
-- 📚 Currently learning ReactJS and NodeJs
+- 💻 Currently working as Frontend Developer
 - 🥅 2022 Goals: <br/>
 > - Land my first job as Frontend Developer - ✅ 01/05/22<br/>
 > - Create/contribute to a project that solve a real problem - ⏳<br/>
