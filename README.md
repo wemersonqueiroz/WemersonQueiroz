@@ -10,7 +10,7 @@
 - 💻 Currently working as Frontend Developer
 - 🥅 2022 Goals: <br/>
 > - Land my first job as Frontend Developer - ✅ 01/05/22<br/>
-> - Create/contribute to a project that solve a real problem - ⏳<br/>
+> - Create/contribute to a project that solve a real problem - ✅ https://excalibur.fm <br/>
 > - Code enough and eficiently to have 2000 Commits & 200PR by 31/12/22 - ⏳<br/>
 > - Create a usefull tool and get my first ⭐️ on it's repository - ⏳<br/>
 
