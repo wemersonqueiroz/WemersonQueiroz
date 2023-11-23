@@ -6,14 +6,7 @@
 
 ## I'm a Husband, StarWars and Marvel Fan, Coffee Addicted and Frontend Developer!
 
-- 👀 I’m interested in Web Development.
 - 💻 Currently working as Frontend Developer
-- 🥅 2022 Goals: <br/>
-> - Land my first job as Frontend Developer - ✅ 01/05/22<br/>
-> - Create/contribute to a project that solve a real problem - ✅ https://excalibur.fm <br/>
-> - Code enough and eficiently to have 2000 Commits & 200PR by 31/12/22 - ⏳<br/>
-> - Create a usefull tool and get my first ⭐️ on it's repository - ⏳<br/>
-
 - 💞️ I’m looking to collaborate on any entry level projects.
 - 📫 How to reach me TG : @wemersonqueiroz Email : hi@wemerson.dev
 
